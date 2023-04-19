@@ -4,7 +4,7 @@
 
 🍄 I'm currently learning HTML CSS JavaScript React PHP
 
-💻 Self taught software developer since May 2, 2022
+💻 Learning software developement since May 2, 2022
   - Earned my Front End Software Development Certificate with Promineo Tech on 04/2023
   - I enjoy researching and solving problems
   - Something about making your code work is so satisfying!
