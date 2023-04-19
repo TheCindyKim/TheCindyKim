@@ -1,4 +1,16 @@
-### Hi there 👋
+### Heyyyy There 👋
+
+📱 Check out my [LinkedIn](https://www.linkedin.com/in/cindykimnguyen/) 
+
+🍄 I'm currently learning HTML CSS JavaScript React PHP
+
+📧 How to reach me: LinkedIn or email cindyknguyen@yahoo.com
+
+♥️ Fun fact: I have five different hobbies which are learning software development, fitness, reading thriller/suspense books, video games, and hanging out with friends
+
+⚡ Things on my Bucket List: 
+  - Get a motorcycle license and learn how to ride/own a sports bike
+  - Take a tumbling class
 
 <!--
 **TheCindyKim/TheCindyKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
